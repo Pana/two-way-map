@@ -18,10 +18,10 @@ var mapper = {
 };
 var twoMap = require('two-way-map');
 
-twoMap(mapper, regist)   // 1
+twoMap(mapper, "regist")   // 1
 twoMap(mapper, 1)        // regist
 ```
 
 Notice: 
-* When try to get key by value, use strict equal === test
+* When try to get key by value, use == test
 * Get key by value the result is an string, so you should only use string as mapper's key
