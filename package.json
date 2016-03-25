@@ -1,0 +1,16 @@
+{
+  "name": "two-way-map",
+  "version": "0.1.0",
+  "description": "Get value from key, and in reverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "two",
+    "way",
+    "map"
+  ],
+  "author": "Pana",
+  "license": "MIT"
+}
