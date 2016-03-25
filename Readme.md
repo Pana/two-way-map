@@ -23,5 +23,5 @@ twoMap(mapper, 1)        // regist
 ```
 
 Notice: 
-* When try to get key by value, use strict equal === test.
-* get key by value you only get an string, so you should only use string as mapper's key
+* When try to get key by value, use strict equal === test
+* Get key by value the result is an string, so you should only use string as mapper's key
